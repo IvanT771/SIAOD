@@ -15,7 +15,11 @@ Lab4 - Лабораторная работа 4. Реализация стека/
 :red_circle: - в процессе
 ____
 Lab1 - :white_check_mark:
+
 Lab2 - :white_check_mark:
+
 Lab3 - :black_square_button:
+
 Lab4 - :black_square_button:
+
 Lab5 - :red_circle:
