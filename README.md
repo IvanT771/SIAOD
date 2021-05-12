@@ -24,4 +24,3 @@ Lab3 - :black_square_button:
 
 Lab4 - :black_square_button:
 
-Lab5 - :red_circle:
