@@ -26,7 +26,7 @@ Lab1 - :white_check_mark:
 
 Lab2 - :white_check_mark:
 
-Lab3 - :black_square_button:
+Lab3 - :white_check_mark:
 
-Lab4 - :black_square_button:
+Lab4 - :white_check_mark:
 
